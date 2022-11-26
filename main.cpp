@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-      int n, i, primo = 1, secondo = 1, terzo;
+      int n, primo = 1, secondo = 1;
     cin >> n;
 if (n>0){
        cout << primo;
